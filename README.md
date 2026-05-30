@@ -1,4 +1,4 @@
-# Web-3-Stellar-Contract-Day-2
+# Web 3 Stellar Contract Day 2
 
 🚀 **Web3 RiseIn Workshop – Will and Testament Contract (Day 2)**
 
